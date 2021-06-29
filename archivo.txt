@@ -1,2 +1,2 @@
 Agregar contenido a archivo
-sto es un ejemplo de como modificar en la WEB
+Esto es un ejemplo de como modificar en la WEB
